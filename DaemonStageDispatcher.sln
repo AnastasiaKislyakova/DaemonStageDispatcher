@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaemonStageDispatcher", "DaemonStageDispatcher\DaemonStageDispatcher.csproj", "{B0CC90EB-BE1B-44FE-822D-F096FA3B3D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CC90EB-BE1B-44FE-822D-F096FA3B3D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CC90EB-BE1B-44FE-822D-F096FA3B3D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CC90EB-BE1B-44FE-822D-F096FA3B3D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CC90EB-BE1B-44FE-822D-F096FA3B3D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20C5D72-6EF1-4005-8BB1-4D6D1AC4B0E7}
+	EndGlobalSection
+EndGlobal
